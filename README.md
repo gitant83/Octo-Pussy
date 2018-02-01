@@ -1,3 +1,3 @@
 # Octo-Pussy
 
-Create a children's toy out of old clothing, a couple of wires and a Teensy.
+Create a children's toy out of old clothing, a couple of wires and a Teensy. It is not related to nor affiliated with any movie that may sound familiar! You can call it whatever you want - as long as you grab it by the...
